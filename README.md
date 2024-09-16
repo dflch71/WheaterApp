@@ -1,1 +1,7 @@
-Exercise taken from the youtube site UiLover Android : Wheater App
+Practical JetPackCompose 
+- Box
+- Column
+- Row
+- Item
+- LazyColumn
+- LazyRow
